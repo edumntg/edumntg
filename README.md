@@ -1,5 +1,8 @@
 # About Me:
-👨‍💻 I'm a Full Stack developer<br>💡 Currently working on Blockchain Development using technologies like JavaScript, Express, Python, C++, Java and SQL.<br>🧠 +5 years of experience<br>🎯 Future goals: Become a Full-Stack developer
+👨‍💻 I'm an Electrical Engineer, but I also do a lot of backend-development💡
+I am currently working on Blockchain Development using technologies like JavaScript/TS, Express, Python, C++, Java and SQL.
+As an Electrical Engineer, I work in the fields of Power System Stability and Control, and also do a lot of CAD-design
+🧠 +5 years of experience
 
 
 ## 🌐 Socials:
